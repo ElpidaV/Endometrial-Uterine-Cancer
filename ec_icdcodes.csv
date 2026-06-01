@@ -1,0 +1,10 @@
+ICD10code,ICD10codeDescr
+C54,Malignant neoplasm of corpus uteri
+C54.0,Malignant neoplasm: Isthmus uteri
+C54.1,Malignant neoplasm: Endometrium
+C54.2,Malignant neoplasm: Myometrium
+C54.3,Malignant neoplasm: Fundus uteri
+C54.8,Malignant neoplasm: Overlapping lesion of corpus uteri
+C54.9,"Malignant neoplasm: Corpus uteri, unspecified"
+C55,"Malignant neoplasm of uterus, part unspecified"
+C57.8,Malignant neoplasm of overlapping sites of female genital organs

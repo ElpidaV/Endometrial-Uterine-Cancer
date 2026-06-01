@@ -1,0 +1,32 @@
+medcode,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
+2744,4857,134,1,0,B40..00,"Malignant neoplasm of uterus, part unspecified",Feb-09
+2890,10578,183,2,0,B430200,Malignant neoplasm of endometrium of corpus uteri,Feb-09
+3213,324,20,0,0,B430.00,"Malignant neoplasm of corpus uteri, excluding isthmus",Feb-09
+7046,4426,21,0,0,B43..00,Malignant neoplasm of body of uterus,Feb-09
+7904,3402,42,1,0,B832000,Carcinoma in situ of endometrium,Feb-09
+9447,1472,3,0,0,BB5j200,[M]Endometrioid carcinoma,Feb-09
+10588,2301,60,0,0,BBK0200,[M]Leiomyosarcoma NOS,Feb-09
+16967,44,0,0,0,B432.00,Malignant neoplasm of overlapping lesion of corpus uteri,Feb-09
+29898,179,4,0,0,B832.00,Carcinoma in situ of other and unspecified parts of uterus,Feb-09
+31608,86,0,0,0,B43y.00,Malignant neoplasm of other site of uterine body,Feb-09
+33617,651,4,0,0,B43z.00,Malignant neoplasm of body of uterus NOS,Feb-09
+34030,276,4,0,0,BBL0.00,[M]Endometrial stromal sarcoma,Feb-09
+43940,23,1,0,0,B431.00,Malignant neoplasm of isthmus of uterine body,Feb-09
+45490,106,1,0,0,B430z00,Malignant neoplasm of corpus uteri NOS,Feb-09
+45793,40,0,0,0,B430300,Malignant neoplasm of myometrium of corpus uteri,Feb-09
+46153,14,0,0,0,B443.00,Malignant neoplasm of parametrium,Feb-09
+49400,875,1,0,0,B430211,Malignant neoplasm of endometrium,Feb-09
+49828,368,4,0,0,B441.00,Malignant neoplasm of fallopian tube,Feb-09
+55090,32,0,0,0,B58y100,Secondary malignant neoplasm of uterus,Feb-09
+56740,52,0,0,0,BBK0311,[M]Leiomyoblastoma,Feb-09
+59097,9,0,0,0,B431000,Malignant neoplasm of lower uterine segment,Feb-09
+59499,99,3,0,0,B833100,Carcinoma in situ of fallopian tube,Feb-09
+61803,73,0,0,0,B832.11,Carcinoma in situ of body of uterus,Feb-09
+64497,11,0,0,0,Byu7000,"[X]Malignant neoplasm of uterine adnexa, unspecified",Feb-09
+64596,21,0,0,0,BBK0700,[M]Myxoid leiomyosarcoma,Feb-09
+65106,65,0,0,0,B44z.00,Malignant neoplasm of uterine adnexa NOS,Feb-09
+68155,12,0,0,0,B430100,Malignant neoplasm of fundus of corpus uteri,Feb-09
+70729,7,0,0,0,B431z00,Malignant neoplasm of isthmus of uterine body NOS,Feb-09
+72723,7,0,0,0,B430000,Malignant neoplasm of cornu of corpus uteri,Feb-09
+97996,11,0,0,0,B44y.00,Malignant neoplasm of other site of uterine adnexa,Nov-09
+46779,,,,,,[V]Personal history of malignant neoplasm of uterine body,
